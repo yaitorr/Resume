@@ -1,0 +1,62 @@
+# Yaisiel Torres
+## Software Developer
+
+> Email: [inbox@yaisieltorres.me] [email]  
+> Web: [http://www.yaisieltorres.me] [web]  
+> Cel: (470) 214-7396  
+
+-----
+
+### Profile <a name='profile'></a>
+Yaisiel Torres is a Computer Engineering graduate from the University of Puerto Rico (Mayagüez Campus). He is an experienced software developer. A great pursuer of good design and implementation practices, who does not hesitate when its time to bend some rules (and have fun at it). This have granted him the opportunity to work in many IT (Big Data, and Web Development) and research (Bioinformatics) oriented projects, earning along the way the recognition of his peers and invaluable knowledge.
+
+-----
+
+### Skills <a name='skills'></a>
+#### E-Commerce Development
+HTML5, CSS3, JavaScript, Java (J2EE and Spring), SQL, Oracle (DB and ATG Web Commerce), CQ5 (Adobe’s CMS), SVN for Source Control, and Selenium’s WebDriver for testing. Knowledge on Web Service implementation and integration: REST, SOAP, CORS, XML and JSON(P).
+
+#### Hadoop (NoSQL) Technologies
+Hive, Pig, HBase, SOLR, and Oozie
+
+#### Soft Skills
+I am fully bilingual, recognized as a leader among peers, excellent team player and mentor. I also maintain a great affinity for learning and knowledge transfer.
+
+-----
+
+### Experience <a name='experience'></a>
+
+Verizon Wireless
+:**2012--Present:** *Software Developer*  
+Primary responsibilities include being the Subject Matter Expert in the integration of “Click to Call/Chat” functionality to service-oriented desktop and mobile pages. This has granted me hands-on experience with **Object-Oriented Programming**, and the usage of web technologies such as **Java/J2EE, HTML, CSS, jQuery and JavaScript**. Some of the related projects have required me to become familiar with Content Management Systems such as **Adobe CQ5**. In addition, I regularly guide other developers and project leads in their own implementations and troubleshooting of “Click to Chat/Call” for sales-oriented pages. Such collaboration allows me to strengthen my communication skills on a daily basis.  
+Chat session analytics and transcript search are my other areas of focus. I’ve been of assistance in the design and implementation of **Hadoop-based** solutions to Verizon Wireless’ reporting needs. Covering the creation of **Oozie workflows** for *data ingestion* in **Hive/HBase**, and *data indexing* through a **SOLR/HBase** combination. Proficiency with **UNIX-based tools and systems** has been necessary for properly testing and delivering projects. I’m also currently involved in the creation of Hadoop data extracts and reports for various internal applications. For this I have been leveraging open-source **ETL** tools such as Apache’s Pig to deliver highly distributed and scalable solutions to business needs. 
+
+-----
+
+### Achievements
+
+*	**Verizon Wireless' 2014 CIO Certificate of Recognition:** for my contribution to the implementation of a Hadoop-based data lake for chat session analytics and search.
+
+-----
+
+### Education
+
+**University of Puerto Rico at Mayagüez**
+:*Bachelor of Science, Computer Eng.*  
+*Magna Cum Laude  (3.77/4.00 Avg. GPA)*  
+Focus on Software Engineering and Microprocessor Interfacing. Research on Algorithms for Bioinformatics sustained for 2 years. 
+
+-----
+
+### Certifications <a name='certifications'></a>
+
+*	**Oracle Certified Java Programmer (OCJP6)**
+
+-----
+
+### Footer <a name='footer'></a>
+
+Yaisiel Torres --- [inbox@yaisieltorres.me][email] --- (470) 214-7396
+
+[email]: inbox@yaisieltorres.me
+[web]: http://www.yaisieltorres.me
