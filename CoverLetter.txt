@@ -1,0 +1,17 @@
+Dear Future [company_name] Colleague,
+
+It would be a great honor for me to pursue my interests in Software Development and Engineering at [company_name] due to its reputation as a prestigious and innovative company in the crafting of cloud-based software for utility companies. My technical knowledge as well as my academic and professional experiences would make me a valuable asset. 
+
+As a student on the University of Puerto Rico at Mayaguez, I was able to work on several team-based projects related to Operating Systems, Artificial Intelligence, Bioinformatics, Microprocessor Interfacing, Software Engineering, among others. These gave me the necessary foundations to tackle various computational problems following a team-oriented approach and provide viable solutions. 
+
+After I graduated I was accepted to become part of Verizon Wireless’ IT team in 2012 and from that point onwards I’ve been engaged with a wide variety of E-Commerce related problems. I first started with the enabling of “Click to Call” and “Click to Chat” functionality across VZW’s pages. Most of the projects have required me to apply my Web Development skills in the integration of 3rd party JavaScript modules, as well as leading inter-team communications for when the related changes impacted multiple teams.
+
+Today I’m currently working along-side Verizon Wireless’ Big Data team in the ingestion, analysis and search of data related to the “Click to Chat” program. Despite of all the challenges encountered and the learning curve (I didn’t have any prior training), I have been able to produce significant contributions to the creation of a Hadoop-based data lake and report derivation. This has been a great introduction to Hadoop’s Ecosystem and I’m very interested on pursuing further challenges. 
+
+I also like to keep up with emerging technologies. This is why I’m currently working on a professional certificate on iOS App Development. My plan is to have one running app, complemented with a Node.js backend by December.  There are a lot of exciting things going on for such technologies and I would love to be part of them. Maybe even publicly contribute to their improvement and outreach.
+
+Given this sample of my academic and professional accomplishments, I can say with confidence that I would be an excellent resource for [company_name]. [Why do you think the company is a good bet for you?]
+
+Enclosed there is a copy of my resume for further reviewing. I am very enthusiastic about the position and look forward to meet you soon. Thank you for your time and consideration!
+
+Sincerely, Yaisiel Torres

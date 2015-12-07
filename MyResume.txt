@@ -1,62 +1,84 @@
-# Yaisiel Torres
-## Software Developer
+Text Resume
 
-> Email: [inbox@yaisieltorres.me] [email]  
-> Web: [http://www.yaisieltorres.me] [web]  
-> Cel: (470) 214-7396  
+Yaisiel Torres
+Greater Atlanta Area
+Software Developer at Verizon Wireless
 
------
+-------------------------------------------
+Summary
 
-### Profile <a name='profile'></a>
 Yaisiel Torres is a Computer Engineering graduate from the University of Puerto Rico (Mayagüez Campus). He is an experienced software developer. A great pursuer of good design and implementation practices, who does not hesitate when its time to bend some rules (and have fun at it). This have granted him the opportunity to work in many IT (Big Data, and Web Development) and research (Bioinformatics) oriented projects, earning along the way the recognition of his peers and invaluable knowledge.
 
------
+Yaisiel has a special fascination with the way nature resolves very complex "computational" problems, with the use of simple yet elegant solutions. He would love to exploit them someday in the near future for the advancement of engineering and science. 
 
-### Skills <a name='skills'></a>
-#### E-Commerce Development
-HTML5, CSS3, JavaScript, Java (J2EE and Spring), SQL, Oracle (DB and ATG Web Commerce), CQ5 (Adobe’s CMS), SVN for Source Control, and Selenium’s WebDriver for testing. Knowledge on Web Service implementation and integration: REST, SOAP, CORS, XML and JSON(P).
+In other [less fancy] words, Yaisiel Torres is also a geek, music fan, gamer, and a startup enthusiast. A seeker of knowledge and, most importantly, its sharing. There's no use for the former if it's not shared!
 
-#### Hadoop (NoSQL) Technologies
-Hive, Pig, HBase, SOLR, and Oozie
+Specialties: Software Engineering, Scientific Research, Bioinformatics, and Embedded Systems.
 
-#### Soft Skills
-I am fully bilingual, recognized as a leader among peers, excellent team player and mentor. I also maintain a great affinity for learning and knowledge transfer.
+-------------------------------------------
+Experience
 
------
+- Software Developer at Verizon Wireless
+01/2012 - Present
+Primary responsibilities include being the Subject Matter Expert in the integration of “Click to Call/Chat” functionality to service-oriented desktop and mobile pages. This has granted me hands-on experience with Object-Oriented Programming, and the usage of web technologies such as Java/J2EE, HTML, CSS, jQuery and JavaScript. Some of the related projects have required me to become familiar with Content Management Systems such as Adobe CQ5. In addition, I regularly guide other developers and project leads in their own implementations and troubleshooting of “Click to Chat/Call” for sales-oriented pages. Such collaboration allows me to strengthen my communication skills on a daily basis.
 
-### Experience <a name='experience'></a>
+Chat session analytics and transcript search are my other areas of focus. I’ve been of assistance in the design and implementation of Hadoop-based solutions to Verizon Wireless’ reporting needs. Covering the creation of Oozie workflows for data ingestion in Hive/HBase, and data indexing through a SOLR/HBase combination. Proficiency with UNIX-based tools and systems has been necessary for properly testing and delivering projects. I’m also currently involved in the creation of Hadoop data extracts and reports for various internal applications. For this I have been leveraging open-source ETL tools such as Apache’s Pig to deliver highly distributed and scalable solutions to business needs.
 
-Verizon Wireless
-:**2012--Present:** *Software Developer*  
-Primary responsibilities include being the Subject Matter Expert in the integration of “Click to Call/Chat” functionality to service-oriented desktop and mobile pages. This has granted me hands-on experience with **Object-Oriented Programming**, and the usage of web technologies such as **Java/J2EE, HTML, CSS, jQuery and JavaScript**. Some of the related projects have required me to become familiar with Content Management Systems such as **Adobe CQ5**. In addition, I regularly guide other developers and project leads in their own implementations and troubleshooting of “Click to Chat/Call” for sales-oriented pages. Such collaboration allows me to strengthen my communication skills on a daily basis.  
-Chat session analytics and transcript search are my other areas of focus. I’ve been of assistance in the design and implementation of **Hadoop-based** solutions to Verizon Wireless’ reporting needs. Covering the creation of **Oozie workflows** for *data ingestion* in **Hive/HBase**, and *data indexing* through a **SOLR/HBase** combination. Proficiency with **UNIX-based tools and systems** has been necessary for properly testing and delivering projects. I’m also currently involved in the creation of Hadoop data extracts and reports for various internal applications. For this I have been leveraging open-source **ETL** tools such as Apache’s Pig to deliver highly distributed and scalable solutions to business needs. 
+- Programmer at EVERTEC
+07/2011 - 01/2012
+Java-based business process modeling and support for different operational units and banking services.
 
------
+- Undergraduate Bioinformatics Researcher at University of Puerto Rico
+08/2008 - 08/2010
+In charge of the design, development and testing of an innovative pattern finding algorithm in DNA sequences.
 
-### Achievements
+- Entrepreneur in Progress Intern at Universia España
+06/2010 - 07/2010
+Hired to formulate a series of social media strategies and tactics to reinforce the bond between the organization and its primary market
 
-*	**Verizon Wireless' 2014 CIO Certificate of Recognition:** for my contribution to the implementation of a Hadoop-based data lake for chat session analytics and search.
+- REU Intern on Molecular Biology at Princeton University
+07/2009 - 08/2009
+Worked with the development of a web interface for a bioinformatic SVM implementation.
 
------
+- COOP in Computer Engineering and Project Management at Eli Lilly and Company
+01/2009 - 05/2009
+Involved in the design, development, and implementation of an intranet web portal for different administrative, and team-oriented services.
 
-### Education
+- REU Intern on Molecular Biology and Bioinformatics at Pittsburgh Supercomputing Center
+07/2008 - 07/2008
+Performance and efficiency measures on the mentioned pattern finding algorithm were evaluated on a supercomputing environment.
 
-**University of Puerto Rico at Mayagüez**
-:*Bachelor of Science, Computer Eng.*  
-*Magna Cum Laude  (3.77/4.00 Avg. GPA)*  
-Focus on Software Engineering and Microprocessor Interfacing. Research on Algorithms for Bioinformatics sustained for 2 years. 
+-------------------------------------------
+Education
 
------
+University of Puerto Rico at Mayaguez (UPRM)
+BS, Computer Engineering, 2005 - 2011
+Magna Cum Laude (3.77/4.00 Avg. GPA) 
+Focus on Software Engineering and 
+Microprocessor Interfacing. Research on 
+Algorithms for Bioinformatics sustained for 2 
+years.
 
-### Certifications <a name='certifications'></a>
+-------------------------------------------
+Certifications
 
-*	**Oracle Certified Java Programmer (OCJP6)**
+Oracle Java Certified Programmer (OCJP6)
 
------
+-------------------------------------------
+Skills
 
-### Footer <a name='footer'></a>
-
-Yaisiel Torres --- [inbox@yaisieltorres.me][email] --- (470) 214-7396
-
-[email]: inbox@yaisieltorres.me
-[web]: http://www.yaisieltorres.me
+E-Commerce Development 
+HTML5, CSS3, JavaScript, Java (J2EE and Spring), 
+SQL, Oracle (DB and ATG Web Commerce), CQ5 
+(Adobe’s CMS), SVN for Source Control, and Selenium’s 
+WebDriver for testing. Knowledge on Web Service 
+implementation and integration: REST, SOAP, CORS, 
+XML and JSON(P). 
+ 
+Hadoop (NoSQL) Technologies 
+Hive, Pig, HBase, SOLR, and Oozie 
+ 
+Soft Skills 
+I am fully bilingual, recognized as a leader among peers, 
+excellent team player and mentor. I also maintain a great 
+affinity for learning and knowledge transfer.
